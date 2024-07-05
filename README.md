@@ -10,7 +10,7 @@
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, Front End Development, Database and its management**
 
 - 📫 How to reach me **mudit26v@gmail.com**
-
+<img src="got.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mudit vashistha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mudit vashistha" height="30" width="40" /></a>
