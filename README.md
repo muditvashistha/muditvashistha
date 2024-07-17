@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mudit</h1>
-<h3 align="center">Enthusiastic and driven Individual interested in learning about new technologies and solving problems using a developed skillset regarding Data Science, Machine Learning, Deep Learning along with Front-End Web Development.</h3>
+<h3 align="center">Enthusiastic and driven Individual interested in learning about new technologies and solving problems using a developed skillset regarding Data Science, Machine Learning, Deep Learning along with Web Development.</h3>
 
 - 🌱 I’m currently learning **Javascript, MongoDB , Flask**
 
